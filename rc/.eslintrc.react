@@ -1,0 +1,28 @@
+{
+  "extends": [
+    "airbnb",
+    "airbnb/hooks",
+    "plugin:react/recommended"
+  ],
+  "plugins": [
+    "react"
+  ],
+  "rules": {
+    "prettier/prettier": [
+      "error",
+      {
+        "printWidth": 120,
+        "singleQuote": true,
+        "jsxBracketSameLine": true,
+        "trailingComma": "all"
+      }
+    ],
+    "react/prop-types": "off"
+  },
+  "settings": {
+    "react": {
+      "pragma": "React",
+      "version": "detect"
+    }
+  }
+}
