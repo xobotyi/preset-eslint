@@ -1,0 +1,16 @@
+os: linux
+
+language: node_js
+node_js: 12
+
+cache:
+  yarn: true
+
+jobs:
+  include:
+    - stage: release semantic-release
+      script: skip
+      deploy:
+        skip_cleanup: true
+        provider: script
+        script: yarn semantic-release
