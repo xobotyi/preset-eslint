@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/xobotyi/preset-eslint/compare/v1.3.0...v1.3.1) (2020-02-16)
+
+
+### Bug Fixes
+
+* semantic-release accidentally got to dependencies (not-dev) ([97d4dc7](https://github.com/xobotyi/preset-eslint/commit/97d4dc73305fca169442d3450cc5b19a21ea03fc))
+
 # [1.3.0](https://github.com/xobotyi/preset-eslint/compare/v1.2.0...v1.3.0) (2020-02-16)
 
 
