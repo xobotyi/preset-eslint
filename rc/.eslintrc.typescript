@@ -33,7 +33,12 @@
           }
         ],
         "import/export": "off",
-        "@typescript-eslint/no-explicit-any": "off"
+        "@typescript-eslint/no-explicit-any": "off",
+        "@typescript-eslint/explicit-function-return-type": "off",
+        "@typescript-eslint/interface-name-prefix": [
+          "error",
+          "always"
+        ]
       }
     }
   ]
