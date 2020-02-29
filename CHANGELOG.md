@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/xobotyi/preset-eslint/compare/v1.3.1...v1.4.0) (2020-02-29)
+
+
+### Features
+
+* strict interfaces to be prefixed with I; ([168a9af](https://github.com/xobotyi/preset-eslint/commit/168a9af584fa323ceb8dab088da66dc43156de7c))
+
 ## [1.3.1](https://github.com/xobotyi/preset-eslint/compare/v1.3.0...v1.3.1) (2020-02-16)
 
 
