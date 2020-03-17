@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/xobotyi/preset-eslint/compare/v1.4.0...v1.5.0) (2020-03-17)
+
+
+### Features
+
+* rename rcs to enable syntax highlight; ([8d172d6](https://github.com/xobotyi/preset-eslint/commit/8d172d6ff9a9b1b7ecd42a5d84f15a83a01072f1))
+
 # [1.4.0](https://github.com/xobotyi/preset-eslint/compare/v1.3.1...v1.4.0) (2020-02-29)
 
 
