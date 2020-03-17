@@ -22,6 +22,13 @@
     "prettier"
   ],
   "rules": {
+    "max-len": [
+      "error",
+      {
+        "code": 120,
+        "ignoreRegExpLiterals": true
+      }
+    ],
     "prettier/prettier": [
       "error",
       {
@@ -39,6 +46,8 @@
         "jsx": "never"
       }
     ],
+    "import/no-default-export": "error",
+    "import/no-named-export": "off",
     "no-plusplus": "off",
     "no-param-reassign": "off"
   }

@@ -1,7 +1,7 @@
 module.exports = {
   extends: [
-    './rc/.eslintrc.base',
-    './rc/.eslintrc.typescript',
-    './rc/.eslintrc.react',
+    './rc/.eslintrc.base.json.json',
+    './rc/.eslintrc.typescript.json.json',
+    './rc/.eslintrc.react.json.json',
   ],
 };

@@ -8,15 +8,6 @@
     "react"
   ],
   "rules": {
-    "prettier/prettier": [
-      "error",
-      {
-        "printWidth": 120,
-        "singleQuote": true,
-        "jsxBracketSameLine": true,
-        "trailingComma": "all"
-      }
-    ],
     "react/prop-types": "off",
     "react/jsx-filename-extension": [
       1,

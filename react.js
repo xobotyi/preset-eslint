@@ -1,5 +1,5 @@
 module.exports = {
   extends: [
-    './rc/.eslintrc.react',
+    './rc/.eslintrc.react.json',
   ],
 };

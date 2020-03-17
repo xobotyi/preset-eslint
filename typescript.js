@@ -1,5 +1,5 @@
 module.exports = {
   extends: [
-    './rc/.eslintrc.typescript',
+    './rc/.eslintrc.typescript.json',
   ],
 };

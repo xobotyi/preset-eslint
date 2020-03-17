@@ -13,15 +13,6 @@
         "@typescript-eslint"
       ],
       "rules": {
-        "prettier/prettier": [
-          "error",
-          {
-            "printWidth": 120,
-            "singleQuote": true,
-            "jsxBracketSameLine": true,
-            "trailingComma": "all"
-          }
-        ],
         "import/extensions": [
           "error",
           "ignorePackages",

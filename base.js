@@ -1,5 +1,5 @@
 module.exports = {
   extends: [
-    './rc/.eslintrc.base',
+    './rc/.eslintrc.base.json',
   ],
 };
