@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/xobotyi/preset-eslint/compare/v1.6.0...v1.7.0) (2020-03-18)
+
+
+### Features
+
+* exclude underscored vars from typescript's no unused rule; ([c10025e](https://github.com/xobotyi/preset-eslint/commit/c10025e459ae92f8af98efaacb9739acf3b773f6))
+
 # [1.6.0](https://github.com/xobotyi/preset-eslint/compare/v1.5.0...v1.6.0) (2020-03-18)
 
 
