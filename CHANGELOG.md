@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/xobotyi/preset-eslint/compare/v1.5.0...v1.6.0) (2020-03-18)
+
+
+### Features
+
+* exclude underscored vars from no unused rule; ([24a685c](https://github.com/xobotyi/preset-eslint/commit/24a685ce5780b27d1e7b34998b2e5367f6a42182))
+
 # [1.5.0](https://github.com/xobotyi/preset-eslint/compare/v1.4.0...v1.5.0) (2020-03-17)
 
 
