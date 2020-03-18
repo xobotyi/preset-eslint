@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/xobotyi/preset-eslint/compare/v1.7.0...v1.8.0) (2020-03-18)
+
+
+### Features
+
+* disable import/prefer-default-export rule; ([9391404](https://github.com/xobotyi/preset-eslint/commit/93914049ad85edac487ae8cd8473ea520601cd5a))
+
 # [1.7.0](https://github.com/xobotyi/preset-eslint/compare/v1.6.0...v1.7.0) (2020-03-18)
 
 
