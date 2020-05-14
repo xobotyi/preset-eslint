@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/xobotyi/preset-eslint/compare/v1.8.0...v1.9.0) (2020-05-14)
+
+
+### Features
+
+* remove package-lock.json ([beb9e2e](https://github.com/xobotyi/preset-eslint/commit/beb9e2e9bede86d1662324bf2b131490ae2697dd))
+
 # [1.8.0](https://github.com/xobotyi/preset-eslint/compare/v1.7.0...v1.8.0) (2020-03-18)
 
 
