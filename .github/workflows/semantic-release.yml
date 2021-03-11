@@ -1,4 +1,4 @@
-name: CI
+name: "Lint & Release"
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    name: "Lint & Release"
+    name: "install, lint, release"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
