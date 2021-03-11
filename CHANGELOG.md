@@ -1,3 +1,15 @@
+# [2.1.0](https://github.com/xobotyi/eslint-config/compare/v2.0.0...v2.1.0) (2021-03-11)
+
+
+### Bug Fixes
+
+* automatic GITHUB_TOKEN instead of manual one. ([4172621](https://github.com/xobotyi/eslint-config/commit/41726210914120ac4741925f5dfe2af002e619fc))
+
+
+### Features
+
+* add dependabot configuration ([3f36225](https://github.com/xobotyi/eslint-config/commit/3f36225fd876421260614d3b5bfac229c615819d))
+
 # [2.0.0](https://github.com/xobotyi/eslint-config/compare/v1.9.0...v2.0.0) (2021-03-11)
 
 
