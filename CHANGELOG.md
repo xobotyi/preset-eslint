@@ -1,3 +1,17 @@
+# [2.0.0](https://github.com/xobotyi/eslint-config/compare/v1.9.0...v2.0.0) (2021-03-11)
+
+
+### Features
+
+* add eslint config. ([7dfa73b](https://github.com/xobotyi/eslint-config/commit/7dfa73b5ad7043536cc59a1156b58f3877130ff6))
+* add semantic-release dependency. ([22997a5](https://github.com/xobotyi/eslint-config/commit/22997a5e6d1d92c06aec7f4148a3313a5cc1d037))
+* new eslint config. ([f18ad96](https://github.com/xobotyi/eslint-config/commit/f18ad96b0c1db134ca8f382bf194989dbaf47060))
+
+
+### BREAKING CHANGES
+
+* react config is not set yet it only extends base config
+
 # [1.9.0](https://github.com/xobotyi/preset-eslint/compare/v1.8.0...v1.9.0) (2020-05-14)
 
 
