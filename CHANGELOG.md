@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/xobotyi/eslint-config/compare/v2.1.0...v2.2.0) (2021-03-15)
+
+
+### Features
+
+* disable rules that reenabled in default TS configs ([2867a65](https://github.com/xobotyi/eslint-config/commit/2867a652bc1dc1f71658b1d1f53c8be907206bf7))
+
 # [2.1.0](https://github.com/xobotyi/eslint-config/compare/v2.0.0...v2.1.0) (2021-03-11)
 
 
