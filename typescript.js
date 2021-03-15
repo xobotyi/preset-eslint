@@ -15,6 +15,8 @@ module.exports = {
   plugins: ['@typescript-eslint', 'prettier'],
 
   rules: {
+    'no-underscore-dangle': 'off',
+    'no-plusplus': 'off',
     'no-console': 'off',
 
     'import/prefer-default-export': 'off',
