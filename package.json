@@ -7,7 +7,7 @@
   "peerDependencies": {},
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.17.0",
-    "@typescript-eslint/parser": "^4.17.0",
+    "@typescript-eslint/parser": "^4.28.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-airbnb-typescript": "^12.3.1",
     "eslint-config-prettier": "^8.1.0",
